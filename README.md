@@ -45,3 +45,9 @@ year = {2020}
 }
 
 ```
+
+## Licence
+
+The software (code) within this repository is an extension of AllenNLP which is covered by the Apache 2.0 Licence (see [here](https://github.com/tomsherborne/bootstrap.git)).
+
+Data and artefacts created as a result of this project is subject to the [University of Edinburgh Open Access Requirement Policy](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access). The authors have applied a Creative Commons Attribution (CC BY) licence to data herewithin this repository. 
